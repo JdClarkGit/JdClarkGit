@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on blockchain and Web3 projects, especially those that intersect with finance and technology.
 - 📫 How to reach me: [Twitter](https://x.com/LavoroAi)
 - ⚡ Fun fact: Outside of coding, I’m passionate about chess, Muay Thai, and learning new languages.
+- I speak: English (Native Speaker), Spanish (Level B2 - Professional Fluency), Portuguese(Level B1 - Conversational), and Italian (Level B1 - Conversational)
 
 Projects For Display:
 
