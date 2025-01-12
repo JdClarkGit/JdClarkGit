@@ -4,11 +4,16 @@
 - 📫 How to reach me: [Twitter](https://x.com/LavoroAi)
 - ⚡ Fun fact: Outside of coding, I’m passionate about chess, Muay Thai, and learning new languages.
 
-Projects:
+Projects For Display:
 
-Bio Medical Map
+BioMedical IT Map
 https://bmetmapfinal.vercel.app/
 
-Crypto App
+Crypto Tracker App
 https://phenomenal-tiramisu-982f05.netlify.app
+
+Lavoro Landing Page:
+https://www.lavoro-project.com
+
+
 
