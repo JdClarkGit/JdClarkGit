@@ -7,16 +7,16 @@
 
 Projects For Display:
 
-BioMedical IT Map
+BioMedical IT Map:
 https://bmetmapfinal.vercel.app/
 
-Crypto Tracker App
+Crypto Tracker App:
 https://phenomenal-tiramisu-982f05.netlify.app
 
 Lavoro Landing Page:
 https://www.lavoro-project.com
 
-Autonomous Auto-Tweet Software using an LLM
+Autonomous Auto-Tweet Software using an LLM:
 [Demo Video](https://lablab.ai/event/ai-agents-hackathon-2/twitter-bot-9000/twitter-bot-9000) 
 
 
