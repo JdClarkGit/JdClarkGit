@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" style="border-radius: 10px;" />
+<img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif
+" width="100%" style="border-radius: 10px;" />
 
 <h1 align="center">🔥 Joseph Clark</h1>
 <h3 align="center">Personal project enthusiast, Muay Thai kickboxer, lifelong learner, and builder of innovative tech.</h3>
