@@ -10,7 +10,7 @@
 - 🧑‍💻 Full-stack software engineer passionate about AI, automation, and Web3  
 - 🧬 Biohacker focused on performance, clarity, and long-term health  
 - ♟️ Avid chess player & strategist  
-- 🌍 Long-term vision: robotics + anti-aging innovation  
+- 🌍 Long-term vision: build businesses and software in blockchain and AI-related fields
 
 ---
 
