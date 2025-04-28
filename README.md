@@ -110,7 +110,7 @@
 
 ### ✉️ Contact
 
-📬 For Career Opportunities, please email: **josephdclarkjobs@gmail.com**  
+📬 For Career Opportunities, please email: **josephdavidclarkjobs@gmail.com**  
 🌎 Website: [josephclark.info](https://www.josephclark.info)  
 🐙 GitHub: [JdClarkGit](https://github.com/JdClarkGit)
 
