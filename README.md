@@ -49,9 +49,6 @@
 ![RadixUI](https://img.shields.io/badge/Radix_UI-black?style=for-the-badge)
 ![Shadcn](https://img.shields.io/badge/shadcn-ui-black?style=for-the-badge)
 ![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui)
-![Headless UI](https://img.shields.io/badge/Headless_UI-gray?style=for-the-badge)
-![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass)
 
 ### 🔍 Testing & Automation  
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright)
