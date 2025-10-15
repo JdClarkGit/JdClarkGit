@@ -98,9 +98,10 @@
 
 ### ✉️ Contact
 
-📬 For inquiries please email me: josephdclarkjobs@gmail.com 
+📬 For inquiries please email me: josephdavidclarkjobs@gmail.com 
 🌎 Website: [josephclark.info](https://www.josephclark.info)  
 🐙 GitHub: [JdClarkGit](https://github.com/JdClarkGit)
+🌐 Linkedin: (https://www.linkedin.com/in/joedeveloper1/)
 
 ---
 
