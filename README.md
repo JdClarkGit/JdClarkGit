@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="100%" style="border-radius: 10px;" />
+<img src="[https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw02hC38T9FhMh50M8mTzEUd&ust=1760654614284000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNC78tqjp5ADFQAAAAAdAAAAABAL)" width="100%" style="border-radius: 10px;" />
 
 <h1 align="center">🔥 Joseph Clark</h1>
 <h3 align="center">Personal project enthusiast, Muay Thai kickboxer, lifelong learner, and builder of innovative tech.</h3>
@@ -7,10 +7,8 @@
 
 ### 🧠 About Me
 
-- 🧑‍💻 Full-stack software engineer passionate about AI, automation, and Web3  
+- 🧑‍💻 Full-stack software engineer passionate about AI and Web3  
 - 🧬 Biohacker focused on performance, clarity, and long-term health  
-- ♟️ Avid chess player & strategist  
-- 🌍 Long-term vision: build businesses and software in blockchain and AI-related fields
 
 ---
 
@@ -94,17 +92,7 @@
 
 ### 🚀 Featured Projects
 
-- 🛠️ **[IT Sidekick Solutions](https://www.sidekicksolutions.org/)**  
-  *A digital toolset to support lean IT operations and service delivery.*
-
-- 💸 **[Crypto App](https://phenomenal-tiramisu-982f05.netlify.app/)**  
-  *A frontend web app that displays real-time cryptocurrency market data.*
-
-- 🌐 **[Lavoro Landing Page](https://www.lavoro-project.com/)**  
-  *Marketing site for Lavoro — the AI-powered job application automation platform.*
-
-- 📊 **[Lavoro Dashboard](https://preview--lavoro-nectar.lovable.app/)**  
-  *Interactive dashboard for resume optimization, AI agents, and job tracking.*
+🌎 Website: [josephclark.info](https://www.josephclark.info)  
 
 ---
 
