@@ -1,7 +1,7 @@
 <img src="[https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw02hC38T9FhMh50M8mTzEUd&ust=1760654614284000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNC78tqjp5ADFQAAAAAdAAAAABAL)" width="100%" style="border-radius: 10px;" />
 
 <h1 align="center">🔥 Joseph Clark</h1>
-<h3 align="center">Full-stack engineer specializing in high-performance systems, blockchain protocols, and scalable applications. Turning complex technical challenges into production-ready solutions.</h3>
+<h3 align="center">Full-stack engineer specializing in high-performance systems, blockchain protocols, and scalable applications. Learning Languages, Working Out, and Getting into flow state.</h3>
 
 ---
 
