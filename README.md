@@ -7,7 +7,8 @@
 
 ### 🧠 About Me
 
-- 🧑‍💻 Full-stack software engineer passionate about AI and Web3  
+- 🧑‍💻 Full-stack software engineer passionate about AI Automation
+- Learning Web3 Trading in my free time
 - 🧬 Biohacker focused on performance, clarity, and long-term health  
 
 ---
@@ -82,26 +83,3 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text)
-
-
-
----
-
-### 🚀 Featured Projects
-
-🌎 Website: [josephclark.info](https://www.josephclark.info)  
-
----
-
-### ✉️ Contact
-
-📬 For inquiries please email me: josephdavidclarkjobs@gmail.com 
-🌎 Website: [josephclark.info](https://www.josephclark.info)  
-🐙 GitHub: [JdClarkGit](https://github.com/JdClarkGit)
-🌐 Linkedin: (https://www.linkedin.com/in/joedeveloper1/)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JdClarkGit&label=Profile%20Views&color=orange&style=flat" alt="profile views"/>
-</p>
