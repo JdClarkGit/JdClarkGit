@@ -6,9 +6,9 @@
 
 ### 🧠 About Me
 
-- 🧑‍💻 Full-stack software engineer passionate about AI Automation
+- Full-stack software engineer passionate about AI Automation
 - Learning Web3 Trading in my free time
-- 🧬 Biohacker focused on performance, clarity, and long-term health  
+- Biohacker focused on performance, clarity, and long-term health  
 
 ---
 
