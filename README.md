@@ -51,64 +51,19 @@ I'm a full-stack engineer building **AI automation systems**, **scalable backend
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicMason5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">PolicyVault AI Compliance Engine</h3>
-      <p align="center">
-        <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100" />
-      </p>
-      <p align="center">
-        Enterprise-grade AI-driven compliance system built with TypeScript and Rust
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">ArteumTrading Multi-Chain Platform</h3>
-      <p align="center">
-        <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="100" />
-      </p>
-      <p align="center">
-        Automated trading system across ETH, SOL, and BTC with advanced strategies
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">AI Smart Contract Generator</h3>
-      <p align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-      </p>
-      <p align="center">
-        AI-powered Solidity contract generation with comprehensive security analysis
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">NomadInflation.com</h3>
-      <p align="center">
-        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100" />
-      </p>
-      <p align="center">
-        Real-time cost-of-living tracker for digital nomads using PHP & SQLite
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 💼 Professional Experience
 
-**Software Engineer** @ GC Software Consultants | Nashville, TN  
-*Building PolicyVault - AI-driven compliance engine*
+**Rust and Web3 Founding Engineer** @ Clark Technology Ventures, LLC | Self-employed  
+*Apr 2023 - Present · 2 yrs 9 mos | Remote*  
+Building two projects for clients
 
-**Founder** @ Clark Tech Ventures LLC  
-*Delivering AI automation systems and CRM integrations*
+**Associate Software Engineer** @ Sidekick Solutions | Contract  
+*Sep 2023 - Sep 2025 · 2 yrs 1 mo | Remote*  
+Full-Stack Development: Built and deployed a cloud-native SaaS booking platform using React, Node.js, Firebase, and Vercel, increasing technician deployment efficiency by 60%
 
-**Previous:** Accenture Federal Services, SideKick (5+ years experience)
+**Software Engineer** @ Accenture | Contract  
+*Aug 2020 - Sep 2022 · 2 yrs 2 mos | Remote*  
+API Development: Designed and maintained RESTful APIs with Node.js and Express.JS to improve federal agency application performance by 25%
 
 ---
 
