@@ -3,112 +3,154 @@
 </p>
 
 <h1 align="center">🚀 Joseph Clark — Software Engineer</h1>
-<h3 align="center">AI Automation • Web Apps • Blockchain • Systems</h3>
-
----
-
-## 🧠 About Me  
-I’m a full-stack engineer building advanced AI automation systems, scalable backend services, modern web applications, and Web3 trading/infrastructure tools.  
-I focus on speed, architecture, developer experience, and production-ready engineering.
-
----
-
-# ⚡ Tech Stack (Compact Flex Layout)
-
-<style>
-.icons {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 22px;
-}
-.icons img {
-  width: 55px;
-  height: 55px;
-}
-</style>
-
----
-
-## 🧩 Core Languages
-<div class="icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg"/>
-</div>
+<h3 align="center">AI Automation • Blockchain • Full-Stack • High-Performance Systems</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="140">
+  <img src="https://komarev.com/ghpvc/?username=LogicMason5&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🎨 Frontend Frameworks
-<div class="icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg"/>
-</div>
+## 👨‍💻 About Me
+
+I'm a full-stack engineer building **AI automation systems**, **scalable backends**, **Web3 infrastructure**, and **high-performance applications**. With deep expertise in **LangChain**, **LLMs**, **NLP**, **Solidity**, **Rust**, **Go**, **Haskell**, **Anchor**, **React/Next.js**, **JS/TS**, and **Node.js**, I build end-to-end solutions across both Web2 and Web3 ecosystems. My experience includes developing **AI agents**, **smart contracts**, **dApps**, **DeFi platforms**, **web and mobile wallets**, **NFT games**, **node infrastructure**, and **automated trading systems**. I combine strong system architecture skills with thoughtful UI/UX design to transform complex technical requirements into high-performance, intuitive products. Driven by precision, innovation, and a commitment to excellence, I help bring ambitious ideas to life and push the boundaries of modern technology.
 
 ---
 
-## ⚙️ Backend & System Architecture
-<div class="icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>
-</div>
-
----
-
-## 🐍 Python Ecosystem
-<div class="icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/>
-</div>
-
----
-
-## 🛢️ Databases
-<div class="icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/>
-</div>
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160">
+  <img src="https://skillicons.dev/icons?i=ai,tensorflow,solidity,rust,go,haskell" alt="AI & Languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,next,vue,django,graphql,fastapi" alt="Frontend & Backend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,prisma,kubernetes,nginx,d3,threejs" alt="DevOps & Visualization" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,python,java" alt="Databases & Cloud" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,laravel,cpp,reactnative,nodejs" alt="Mobile & More" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 </p>
 
 ---
 
-## 🐳 DevOps & Cloud
-<div class="icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LogicMason5&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LogicMason5&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicMason5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
 
 ---
 
-## 🧬 Blockchain / Web3  
-<div class="icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web3js/web3js-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethers/ethers-original.svg"/>
-</div>
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">PolicyVault AI Compliance Engine</h3>
+      <p align="center">
+        <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100" />
+      </p>
+      <p align="center">
+        Enterprise-grade AI-driven compliance system built with TypeScript and Rust
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">ArteumTrading Multi-Chain Platform</h3>
+      <p align="center">
+        <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="100" />
+      </p>
+      <p align="center">
+        Automated trading system across ETH, SOL, and BTC with advanced strategies
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">AI Smart Contract Generator</h3>
+      <p align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+      </p>
+      <p align="center">
+        AI-powered Solidity contract generation with comprehensive security analysis
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">NomadInflation.com</h3>
+      <p align="center">
+        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100" />
+      </p>
+      <p align="center">
+        Real-time cost-of-living tracker for digital nomads using PHP & SQLite
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+**Software Engineer** @ GC Software Consultants | Nashville, TN  
+*Building PolicyVault - AI-driven compliance engine*
+
+**Founder** @ Clark Tech Ventures LLC  
+*Delivering AI automation systems and CRM integrations*
+
+**Previous:** Accenture Federal Services, SideKick (5+ years experience)
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Building **blockchain infrastructure** and **Web3 trading systems**
+- 🌱 Deep diving into **Hedera**, **Hyperledger Fabric**, and **consensus mechanisms**
+- 🤖 Developing **AI automation workflows** with **n8n** and **LangChain**
+- 📝 Creating **educational content** on blockchain and Layer 2 solutions
+- 🌍 Geographic arbitrage strategy: relocating to **Paraguay Q2 2026**
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150">
+  <a href="https://linkedin.com/in/joseph-clark" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/josephclark" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:joseph@clarktechventures.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🏆 Certifications & Education
+
+- 🎓 **M.S. IT Management** - Western Governors University
+- 🎓 **B.S. Finance + CS Minor** - University at Buffalo
+- 🌐 **Languages:** Spanish (C1), Portuguese (B1), Italian (B1)
+- 💪 **Interests:** Chess, Muay Thai, Biohacking, Philosophy & Literature
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center">
+  ⭐ From <a href="https://github.com/LogicMason5">LogicMason5</a> | Building the future, one commit at a time
 </p>
