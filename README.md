@@ -72,26 +72,8 @@ API Development: Designed and maintained RESTful APIs with Node.js and Express.J
 - 🔭 Building **blockchain infrastructure** and **Web3 trading systems**
 - 🌱 Deep diving into **Hedera**, **Hyperledger Fabric**, and **consensus mechanisms**
 - 🤖 Developing **AI automation workflows** with **n8n** and **LangChain**
-- 📝 Creating **educational content** on blockchain and Layer 2 solutions
-- 🌍 Geographic arbitrage strategy: relocating to **Paraguay Q2 2026**
+- 📝 Creating **educational content** on blockchain and Layer 2 solutions on Threads
 
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/joseph-clark" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/josephclark" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:joseph@clarktechventures.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
 
 ## 🏆 Certifications & Education
 
