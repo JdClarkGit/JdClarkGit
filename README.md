@@ -71,7 +71,3 @@ API Development: Designed and maintained RESTful APIs with Node.js and Express.J
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
-
-<p align="center">
-  ⭐ From <a href="https://github.com/LogicMason5">LogicMason5</a> | Building the future, one commit at a time
-</p>
